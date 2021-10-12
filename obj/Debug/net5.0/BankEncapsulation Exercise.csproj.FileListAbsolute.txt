@@ -1,0 +1,16 @@
+C:\Users\gsida\Desktop\Repo\BankEncapsulation Exercise\bin\Debug\net5.0\BankEncapsulation Exercise.exe
+C:\Users\gsida\Desktop\Repo\BankEncapsulation Exercise\bin\Debug\net5.0\BankEncapsulation Exercise.deps.json
+C:\Users\gsida\Desktop\Repo\BankEncapsulation Exercise\bin\Debug\net5.0\BankEncapsulation Exercise.runtimeconfig.json
+C:\Users\gsida\Desktop\Repo\BankEncapsulation Exercise\bin\Debug\net5.0\BankEncapsulation Exercise.runtimeconfig.dev.json
+C:\Users\gsida\Desktop\Repo\BankEncapsulation Exercise\bin\Debug\net5.0\BankEncapsulation Exercise.dll
+C:\Users\gsida\Desktop\Repo\BankEncapsulation Exercise\bin\Debug\net5.0\ref\BankEncapsulation Exercise.dll
+C:\Users\gsida\Desktop\Repo\BankEncapsulation Exercise\bin\Debug\net5.0\BankEncapsulation Exercise.pdb
+C:\Users\gsida\Desktop\Repo\BankEncapsulation Exercise\obj\Debug\net5.0\BankEncapsulation Exercise.csproj.AssemblyReference.cache
+C:\Users\gsida\Desktop\Repo\BankEncapsulation Exercise\obj\Debug\net5.0\BankEncapsulation Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gsida\Desktop\Repo\BankEncapsulation Exercise\obj\Debug\net5.0\BankEncapsulation Exercise.AssemblyInfoInputs.cache
+C:\Users\gsida\Desktop\Repo\BankEncapsulation Exercise\obj\Debug\net5.0\BankEncapsulation Exercise.AssemblyInfo.cs
+C:\Users\gsida\Desktop\Repo\BankEncapsulation Exercise\obj\Debug\net5.0\BankEncapsulation Exercise.csproj.CoreCompileInputs.cache
+C:\Users\gsida\Desktop\Repo\BankEncapsulation Exercise\obj\Debug\net5.0\BankEncapsulation Exercise.dll
+C:\Users\gsida\Desktop\Repo\BankEncapsulation Exercise\obj\Debug\net5.0\ref\BankEncapsulation Exercise.dll
+C:\Users\gsida\Desktop\Repo\BankEncapsulation Exercise\obj\Debug\net5.0\BankEncapsulation Exercise.pdb
+C:\Users\gsida\Desktop\Repo\BankEncapsulation Exercise\obj\Debug\net5.0\BankEncapsulation Exercise.genruntimeconfig.cache
